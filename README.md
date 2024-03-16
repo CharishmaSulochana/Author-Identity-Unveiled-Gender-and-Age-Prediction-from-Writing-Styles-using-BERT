@@ -1,9 +1,9 @@
 # Author-Identity-Unveiled-Gender-and-Age-Prediction-from-Writing-Styles-using-BERT
 
 # Problem Statement:
-Author profiling is a challenging task involving the categorization of authors into age groups and genders based on textual data. The primary aim is to develop accurate machine learning models that can predict the age group and gender of authors, enabling marketers to tailor campaigns for specific demographics effectively.
+Author profiling is a challenging task involving the categorization of authors into age groups and genders based on textual data. The challenge addressed in this project revolves around author profiling, with the primary objective of predicting age group and gender based on textual data. Author profiling plays a crucial role in various domains, including marketing, forensic linguistics, and content moderation. By accurately categorizing authors into age groups and genders, businesses can tailor marketing campaigns to specific demographics, while forensic linguists can utilize author profiling techniques to identify authors of anonymous texts, aiding in criminal investigations. Additionally, in the realm of content moderation, author profiling can assist in detecting and combating fake news by attributing content to its real authors. However, despite its significance, author profiling remains a challenging task due to the diverse linguistic styles and writing patterns exhibited by authors across different demographics. This project aims to develop effective machine learning models that can accurately predict the age group and gender of authors from textual data, contributing to advancements in author profiling methodologies and their practical applications.
 
-# Abstract :
+# Abstract:
 Project focuses on author profiling: predicting age group and gender from textual data. Objective is to Categorize age groups into predefined ranges and determine binary gender labels.
 
 # Dataset:
