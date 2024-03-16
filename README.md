@@ -13,13 +13,21 @@ The dataset is sourced from Zenodo.org, originating from the PAN13 project. It c
 The project employs a methodology centered around data preprocessing, exploratory data analysis, model building, and evaluation metrics. Text vectorization techniques such as TF-IDF and Count Vectorizer are utilized alongside machine learning algorithms. BERT embeddings are highlighted for their ability to capture contextual information effectively. Evaluation is conducted using metrics such as F1 scores to assess model performance for both age group and gender prediction.
 # Python Libraries:
 TensorFlow: An open-source machine learning framework developed by Google.
+
 Scikit-learn: A machine learning library in Python that provides tools for data mining and analysis.
+
 Pandas: A data manipulation and analysis library in Python.
+
 NumPy: A fundamental package for scientific computing in Python, providing support for multi-dimensional arrays and matrices.
+
 Transformers: An open-source library for natural language processing (NLP) tasks, including pre-trained models like BERT.
+
 Regular Expressions: A tool for pattern matching and string manipulation in Python.
+
 SimpleImputer: A function from Scikit-learn used for imputing missing values in datasets.
+
 train_test_split: A function from Scikit-learn used to split datasets into training and testing sets for model evaluation.
+
 # Conclusion:
 This work significantly advances understanding author identification based on input text.
 Choice of vectorization method and model greatly impacts performance.
